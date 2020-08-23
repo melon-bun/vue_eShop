@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    hello world
     <!-- 路由占位符 -->
     <router-view></router-view>
     <!-- <img src="./assets/logo.png">
